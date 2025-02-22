@@ -1,4 +1,3 @@
-// src/components/__tests__/Modal.test.js
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import Modal from '../Modal';
